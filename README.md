@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrdekliPortakal
+- 👋 Hi, I’m Hasan
 - 👀 I’m interested in coding and game desingning
 - 🌱 I’m currently learning C and html/css/js 
 - 💞️ I’m looking to collaborate on who want to take care of me
